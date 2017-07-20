@@ -16,8 +16,10 @@ One tank or healer and one DPS should be assigned to each marker like so:<br>
 * D – Healer #2, DPS #4<br>
 
 <p style="text-align:center">
-<img src="http://i.imgur.com/X54VX4Z.png">
+<img src="assets/o2s-start.png">
 </p>
+
+The boss should be tanked near the center, with the rear facing the center of the room where the rest of the party will be stacked.
 
 ## Boss abilities & strategy
 
@@ -59,24 +61,12 @@ There is a safe spot in the very center of the room which will avoid this.
 
 For the first Antilight, nobody can be floating as the yellow circles overlap the center.  For the second, it is OK to float (and some party members should do so – explained later).
 
-<div style="display:block; margin:0 auto;">
-
-<img src="http://i.imgur.com/Tc3lq00.png">
-
-</div>
-
 ### Gravitational Manipulation (with Blue and Yellow stack markers)
 Before the stack markers explode, one person will be forced to float and one person (if already floating) will be forced to the ground.
 
 Four people must be hit by each attack in order to avoid vulnerability debuffs – thus, four people should be floating and four should be on the ground.
 
-The easiest way to handle this mechanic is to have four people floating before Gravitational Manipulation goes off - either have the tanks + healers or all four DPS do this.  One person will be forced down and one will be force up, but there will still be four floaters and four on the ground after the swap.
-
-<div style="display:block; margin:0 auto;">
-
-<img src="http://i.imgur.com/lZfJiYk.png">
-
-</div>
+The easiest way to handle this mechanic is to have four people floating before Gravitational Manipulation goes off - either have the tanks + healers or all four DPS do this.  One person will be forced down and one will be force up, but there will still be four floaters and four on the ground after the swap. After Gravitational Manipulation explodes, the remaining grounded players will immediately need to levitate to avoid **Aetherial Rift**.
 
 ### Maniacal Probe
  Four people will be targeted with a red eye marker.  For the first set, it will be healers + tanks.  For the second set, it will be all four DPS.
@@ -85,53 +75,41 @@ People targeted by this should run to their designated markers and wait there.  
 
 The tentacles function similarly to the Judgement Crystals in A12s and serve as detectors for another move the boss does called Epicenter.
 
-Catastrophe will also cast Death’s Gaze while this is happening, so look away from him.
-
-<div style="display:block; margin:0 auto;">
-
-<img src="http://i.imgur.com/gIZJfNo.png">
-
-</div>
+During this mechanic, you will also need to look away from the boss to avoid **Death's Gaze**.
 
 ### Epicenter
- Massive AoEs that appear in 2-3 of the cardinal directions around the room.  This deals heavy damage and places a vulnerability debuff on anyone struck.
+Massive AoEs that appear in 2-3 of the cardinal directions around the room.  This deals heavy damage and places a vulnerability debuff on anyone struck.
 
 The tentacles placed by Maniacal Probe serve as detectors to this mechanic. Blue eyes will float above each of the tentacles at first.  After a few moments, if properly placed, the first tentacle to lose its blue marker is the safe zone. All other tentacles are NOT safe.
 
 The entire party needs to run to the safe zone, as close to the wall as possible, in order to avoid being hit by epicenter. This mechanic also coincides with either a 100G (first time) or a Gravitational Manipulation (second time), so the entire party should stack at the safe zone and handle these mechanics as they would normally.
 
-<div style="display:block; margin:0 auto;">
-
-<img src="http://i.imgur.com/Sgl4abI.png">
-
-</div>
-
 ### -100Gs
- Blue and Yellow AoE circles will appear and cover a huge portion of the center of the arena, spanning from the East all the way to the Western edge of the room.
+Blue and yellow AoE circles will appear and cover a huge portion of the center of the arena, spanning from the east all the way to the western edge of the room.
 
 When he finishes casting -100Gs, everybody will be sent flying. If you aren’t standing in a safe spot before it goes off, you will probably die.
 
-The safe spots are in the North and South. Both tanks and two DPS (pre-assigned) should go north.  Both healers and the remaining two DPS should go south.
+The safe spots are in the north and south. Both tanks and two DPS (pre-assigned) should go north.  Both healers and the remaining two DPS should go south.
 
 Three of the DPS will get AoE markers during this. DPS should stand on the east and west edges of the safe zones to avoid overlapping the AoE.
 
-**Catastrophe will also cast Death’s Gaze during all of this.**
+During this mechanic, you will also need to look away from the boss to avoid **Death's Gaze**.
 
 <div style="display:block; margin:0 auto;">
 
-<img src="http://i.imgur.com/GnJIhjJ.png">
+<img src="assets/-100gs.png">
 
 </div>
 
 ### Unstable Gravitation
- This is an 18 Second long debuff.  When it wears off, anyone who has this will cause a massive AoE (About the size of Defamation from A12S) explosion for a large amount of damage (10-15k range).
+ This is an 18 second long debuff.  When it wears off, anyone who has this will cause a massive AoE (about the size of Defamation from A12S) explosion for a large amount of damage (10-15k range).
 
 Four players will receive this debuff when it goes out, and they should be in their predetermined mark location in one of the four cardinal directions when it goes off so that the AoEs don’t overlap. This will create a safe spot in the center of the room for players who do not have the debuff.  This is extremely vital because this coincides with another mechanic, Long Drop, which must be split between the entire party.
 
 For its first appearance, tanks + healers will receive this debuff.  For the second, the four DPS will have it.
 
 ### Long Drop
- Extreme Damage AoE with a stack marker.  Everybody needs to get hit by this to split the damage amongst the party, along with shields and whatever physical damage debuffs you might have.
+Extreme damage AoE with a stack marker.  Everybody needs to get hit by this to split the damage amongst the party, along with shields and whatever physical damage debuffs you might have.
 
 This occurs immediately after an Antilight, so everybody should already be stacked in the center.
 
@@ -143,16 +121,9 @@ If done correctly, each floating party member will be knocked into their respect
 
 <div style="display:block; margin:0 auto;">
 
-<img src="http://i.imgur.com/QICdlK1.png">
+<img src="assets/long_drop.png">
 
 </div>
-
-
-
-
-
-
-
 
 # Timeline (Stolen from Reddit):
 
