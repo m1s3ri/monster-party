@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Deltascape
+page.title: Deltascape v2.0
 ---
 
 # Deltascape v2.0 (Savage)
@@ -12,10 +12,13 @@ Markers should be placed in the four cardinal directions. Each party member shou
 One tank or healer and one DPS should be assigned to each marker like so:
 <div class="highlight"><img src="http://i.imgur.com/X54VX4Z.png"></div>
 
-* A – Tank #1, DPS #1
-* B – Tank #2, DPS #2
-* C – Healer #1, DPS #3
-* D – Healer #2, DPS #4
+A – Tank #1, DPS #1
+
+B – Tank #2, DPS #2
+
+C – Healer #1, DPS #3
+
+D – Healer #2, DPS #4
 
 ## Boss abilities & strategy
 
@@ -51,22 +54,24 @@ Catastrophe does two of these before Evilsphere, and the third shortly after.  T
  Point blank AoE instant-death gaze attack.  Look away to avoid it.
 
 ### Antilight
- Large blue and yellow AOE circles appear on the ground and floating in the air, respectively. 
+Large blue and yellow AOE circles appear on the ground and floating in the air, respectively. 
+<div class="highlight"><img src="http://i.imgur.com/Tc3lq00.png></div>
 
 There is a safe spot in the very center of the room which will avoid this. 
 
 For the first Antilight, nobody can be floating as the yellow circles overlap the center.  For the second, it is OK to float (and some party members should do so – explained later).
 
-![](http://i.imgur.com/Tc3lq00.png)
+<div class="highlight"><img src="http://i.imgur.com/Tc3lq00.png></div>
 
 ### Gravitational Manipulation (with Blue and Yellow stack markers)
- Before the stack markers explode, one person will be forced to float and one person (if already floating) will be forced to the ground.
+Before the stack markers explode, one person will be forced to float and one person (if already floating) will be forced to the ground.
+<div class="highlight"><img src="http://i.imgur.com/lZfJiYk.png></div>
 
 Four people must be hit by each attack in order to avoid vulnerability debuffs – thus, four people should be floating and four should be on the ground.
 
 The easiest way to handle this mechanic is to have four people floating before Gravitational Manipulation goes off - either have the tanks + healers or all four DPS do this.  One person will be forced down and one will be force up, but there will still be four floaters and four on the ground after the swap.
 
-![](http://i.imgur.com/lZfJiYk.png)
+<div class="highlight"><img src="http://i.imgur.com/lZfJiYk.png></div>
 
 ### Maniacal Probe
  Four people will be targeted with a red eye marker.  For the first set, it will be healers + tanks.  For the second set, it will be all four DPS.
