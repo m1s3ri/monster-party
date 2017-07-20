@@ -7,6 +7,7 @@ layout: base
 ## Before the fight:
 Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
 
+<div class="begin-examples"></div>
 One tank or healer and one DPS should be assigned to each marker like so:
 
 * A – Tank #1, DPS #1
@@ -17,6 +18,7 @@ One tank or healer and one DPS should be assigned to each marker like so:
 <div class="highlight">
 <img src="http://i.imgur.com/X54VX4Z.png">
 </div>
+<div class="end-examples"></div>
 
 ## Boss abilities & strategy
 
