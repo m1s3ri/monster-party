@@ -15,7 +15,11 @@ One tank or healer and one DPS should be assigned to each marker like so:<br>
 * C – Healer #1, DPS #3<br>
 * D – Healer #2, DPS #4<br>
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/X54VX4Z.png)
+
+</div>
 
 ## Boss abilities & strategy
 
@@ -57,7 +61,11 @@ There is a safe spot in the very center of the room which will avoid this.
 
 For the first Antilight, nobody can be floating as the yellow circles overlap the center.  For the second, it is OK to float (and some party members should do so – explained later).
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/Tc3lq00.png)
+
+</div>
 
 ### Gravitational Manipulation (with Blue and Yellow stack markers)
 Before the stack markers explode, one person will be forced to float and one person (if already floating) will be forced to the ground.
@@ -66,7 +74,11 @@ Four people must be hit by each attack in order to avoid vulnerability debuffs �
 
 The easiest way to handle this mechanic is to have four people floating before Gravitational Manipulation goes off - either have the tanks + healers or all four DPS do this.  One person will be forced down and one will be force up, but there will still be four floaters and four on the ground after the swap.
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/lZfJiYk.png)
+
+</div>
 
 ### Maniacal Probe
  Four people will be targeted with a red eye marker.  For the first set, it will be healers + tanks.  For the second set, it will be all four DPS.
@@ -77,7 +89,11 @@ The tentacles function similarly to the Judgement Crystals in A12s and serve as 
 
 Catastrophe will also cast Death’s Gaze while this is happening, so look away from him.
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/gIZJfNo.png)
+
+</div>
 
 ### Epicenter
  Massive AoEs that appear in 2-3 of the cardinal directions around the room.  This deals heavy damage and places a vulnerability debuff on anyone struck.
@@ -86,7 +102,11 @@ The tentacles placed by Maniacal Probe serve as detectors to this mechanic. Blue
 
 The entire party needs to run to the safe zone, as close to the wall as possible, in order to avoid being hit by epicenter. This mechanic also coincides with either a 100G (first time) or a Gravitational Manipulation (second time), so the entire party should stack at the safe zone and handle these mechanics as they would normally.
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/Sgl4abI.png)
+
+</div>
 
 ### -100Gs
  Blue and Yellow AoE circles will appear and cover a huge portion of the center of the arena, spanning from the East all the way to the Western edge of the room.
@@ -99,7 +119,11 @@ Three of the DPS will get AoE markers during this. DPS should stand on the east 
 
 Catastrophe will also cast Death’s Gaze during all of this.
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/GnJIhjJ.png)
+
+</div>
 
 ### Unstable Gravitation
  This is an 18 Second long debuff.  When it wears off, anyone who has this will cause a massive AoE (About the size of Defamation from A12S) explosion for a large amount of damage (10-15k range).
@@ -119,9 +143,11 @@ Because of this, all party members with Unstable Gravitation should float, and s
 
 If done correctly, each floating party member will be knocked into their respective mark position when struck, so they can split the damage with the party but also be out of range for when their Unstable Gravitation explodes.
 
+<div style="text-align:center">
+
 ![](http://i.imgur.com/QICdlK1.png)
 
-<div class="end-examples"></div>
+</div>
 
 
 
