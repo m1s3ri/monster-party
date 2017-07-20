@@ -1,5 +1,6 @@
 ---
 layout: base
+title: Deltascape
 ---
 
 # Deltascape v2.0 (Savage)
