@@ -1,4 +1,6 @@
-# Before the fight:
+# Deltascape v2.0 (Savage)
+
+## Before the fight:
 Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
 
 One tank or healer and one DPS should be assigned to each marker like so:
@@ -8,11 +10,7 @@ One tank or healer and one DPS should be assigned to each marker like so:
 * C – Healer #1, DPS #3
 * D – Healer #2, DPS #4
 
-
-> ![](http://i.imgur.com/X54VX4Z.png)
-
-
-# Boss abilities & strategy
+## Boss abilities & strategy
 
 ### Earthquake
 Huge AoE damage + a vulnerability stack.  Hits anyone on the ground.  Everyone should float to avoid it.
