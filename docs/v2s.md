@@ -10,19 +10,11 @@ Markers should be placed in the four cardinal directions. Each party member shou
 
 <div class="begin-examples"></div>
 One tank or healer and one DPS should be assigned to each marker like so:
-<div class="highlight">
-<img src="http://i.imgur.com/X54VX4Z.png">
-</div>
-
-A – Tank #1, DPS #1
-
-B – Tank #2, DPS #2
-
-C – Healer #1, DPS #3
-
-D – Healer #2, DPS #4
-
-
+<div class="highlight"><img src="http://i.imgur.com/X54VX4Z.png"></div>
+* A – Tank #1, DPS #1
+* B – Tank #2, DPS #2
+* C – Healer #1, DPS #3
+* D – Healer #2, DPS #4
 
 ## Boss abilities & strategy
 
