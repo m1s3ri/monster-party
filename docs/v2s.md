@@ -16,7 +16,7 @@ One tank or healer and one DPS should be assigned to each marker like so:<br>
 * D – Healer #2, DPS #4<br>
 
 <p style="text-align:center">
-![](http://i.imgur.com/X54VX4Z.png)
+<img src="http://i.imgur.com/X54VX4Z.png">
 </p>
 
 ## Boss abilities & strategy
@@ -61,7 +61,7 @@ For the first Antilight, nobody can be floating as the yellow circles overlap th
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/Tc3lq00.png)
+<img src="http://i.imgur.com/Tc3lq00.png">
 
 </div>
 
@@ -74,7 +74,7 @@ The easiest way to handle this mechanic is to have four people floating before G
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/lZfJiYk.png)
+<img src="http://i.imgur.com/lZfJiYk.png">
 
 </div>
 
@@ -89,7 +89,7 @@ Catastrophe will also cast Death’s Gaze while this is happening, so look away 
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/gIZJfNo.png)
+<img src="http://i.imgur.com/gIZJfNo.png">
 
 </div>
 
@@ -102,7 +102,7 @@ The entire party needs to run to the safe zone, as close to the wall as possible
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/Sgl4abI.png)
+<img src="http://i.imgur.com/Sgl4abI.png">
 
 </div>
 
@@ -119,7 +119,7 @@ Three of the DPS will get AoE markers during this. DPS should stand on the east 
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/GnJIhjJ.png)
+<img src="http://i.imgur.com/GnJIhjJ.png">
 
 </div>
 
@@ -143,7 +143,7 @@ If done correctly, each floating party member will be knocked into their respect
 
 <div style="display:block; margin:0 auto;">
 
-![](http://i.imgur.com/QICdlK1.png)
+<img src="http://i.imgur.com/QICdlK1.png">
 
 </div>
 
