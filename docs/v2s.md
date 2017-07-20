@@ -15,7 +15,7 @@ One tank or healer and one DPS should be assigned to each marker like so:<br>
 * C – Healer #1, DPS #3<br>
 * D – Healer #2, DPS #4<br>
 
-![](img src="http://i.imgur.com/X54VX4Z.png)
+![](http://i.imgur.com/X54VX4Z.png)
 
 ## Boss abilities & strategy
 
