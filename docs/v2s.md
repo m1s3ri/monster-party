@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="stylesheets/normalize.css">
-<link rel="stylesheet" href="stylesheets/styles.css">
+---
+layout: base
+---
 
 # Deltascape v2.0 (Savage)
 
@@ -15,9 +16,9 @@ One tank or healer and one DPS should be assigned to each marker like so:
 * C – Healer #1, DPS #3
 * D – Healer #2, DPS #4
 
-<div class="highlight">
+```
 text
-</div>
+```
 
 <img src="http://i.imgur.com/X54VX4Z.png">
 
