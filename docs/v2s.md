@@ -19,9 +19,7 @@ One tank or healer and one DPS should be assigned to each marker like so:<br>
 <img src="assets/o2s-start.png">
 </p>
 
-```
-T = tank | P = party
-```
+> T = tank, P = party
 
 The boss should be tanked near the center, with the rear facing the center of the room where the rest of the party will be stacked.
 
@@ -105,9 +103,7 @@ During this mechanic, you will also need to look away from the boss to avoid **D
 
 </div>
 
-```
-DPS positions to leave safe room for tanks/healers during -100Gs
-```
+> DPS positions to leave safe room for tanks/healers during -100Gs
 
 ### Unstable Gravitation
  This is an 18 second long debuff.  When it wears off, anyone who has this will cause a massive AoE (about the size of Defamation from A12S) explosion for a large amount of damage (10-15k range).
@@ -133,9 +129,7 @@ If done correctly, each floating party member will be knocked into their respect
 
 </div>
 
-```
-Players with Unstable Gravitation should use the Long Drop knockback to place themselves safely at the edge
-```
+> Players with Unstable Gravitation should use the Long Drop knockback to place themselves safely at the edge
 
 # Timeline (Stolen from Reddit):
 
