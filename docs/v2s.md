@@ -4,8 +4,6 @@ layout: base
 
 # Deltascape v2.0 (Savage)
 
-<div class="begin-examples"></div>
-
 ## Before the fight:
 Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
 
@@ -17,8 +15,6 @@ One tank or healer and one DPS should be assigned to each marker like so:
 * D – Healer #2, DPS #4
 
 <div class="highlight">
-text
-
 <img src="http://i.imgur.com/X54VX4Z.png">
 </div>
 
