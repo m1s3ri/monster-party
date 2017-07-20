@@ -9,15 +9,11 @@ page.title: Deltascape v2.0
 Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
 
 <div class="begin-examples"></div>
-One tank or healer and one DPS should be assigned to each marker like so:
-<div class="highlight"><img src="http://i.imgur.com/X54VX4Z.png"></div>
-A – Tank #1, DPS #1
-
-B – Tank #2, DPS #2
-
-C – Healer #1, DPS #3
-
-D – Healer #2, DPS #4
+One tank or healer and one DPS should be assigned to each marker like so:<div class="highlight"><img src="http://i.imgur.com/X54VX4Z.png"></div>
+A – Tank #1, DPS #1<br>
+B – Tank #2, DPS #2<br>
+C – Healer #1, DPS #3<br>
+D – Healer #2, DPS #4<br>
 
 ## Boss abilities & strategy
 
