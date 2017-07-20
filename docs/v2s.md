@@ -1,4 +1,9 @@
+<link rel="stylesheet" href="stylesheets/normalize.css">
+<link rel="stylesheet" href="stylesheets/styles.css">
+
 # Deltascape v2.0 (Savage)
+
+<div class="begin-examples"></div>
 
 ## Before the fight:
 Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
@@ -10,7 +15,12 @@ One tank or healer and one DPS should be assigned to each marker like so:
 * C – Healer #1, DPS #3
 * D – Healer #2, DPS #4
 
-![](http://i.imgur.com/X54VX4Z.png)
+<div class="highlight">
+text
+</div>
+
+<img src="http://i.imgur.com/X54VX4Z.png">
+
 
 ## Boss abilities & strategy
 
@@ -116,6 +126,7 @@ If done correctly, each floating party member will be knocked into their respect
 
 ![](http://i.imgur.com/QICdlK1.png)
 
+<div class="end-examples"></div>
 
 
 
