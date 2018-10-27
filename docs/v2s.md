@@ -5,7 +5,7 @@ page.title: Deltascape v2.0
 # Deltascape v2.0 (Savage)
 
 ## Before the fight:
-Markers should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
+<span style="color:red">Markers</span> should be placed in the four cardinal directions. Each party member should be assigned one of these four markers in order to handle several of the mechanics that occur throughout the fight. 
 
 
 One tank or healer and one DPS should be assigned to each marker like so:<br>
